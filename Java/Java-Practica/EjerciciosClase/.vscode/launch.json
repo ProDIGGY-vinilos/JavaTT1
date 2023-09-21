@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "EjerciciosClase",
+      "request": "launch",
+      "mainClass": "EjerciciosClase/src/App.java",
+      "classpath": "EjerciciosClase:lib/mysql-connector-j-8.0.33.jar"
+    }
+  ]
+}

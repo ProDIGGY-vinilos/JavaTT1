@@ -1,0 +1,8 @@
+public class ForEach {
+    public void bucleForEach() {
+        int[] num = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        for (int n : num) {
+            System.out.println("nombre = " + n);
+        }
+    }
+}
