@@ -18,6 +18,6 @@ public class App {
         }
         for (int i = 0; i < 3; i++) {
             JOptionPane.showMessageDialog(null, "Factura Nro: " + nroFactura[i] + " Total: " + totProd[i]);
-        }
+        } // cambios para probar git
     }
 }
